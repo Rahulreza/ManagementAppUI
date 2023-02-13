@@ -1,16 +1,37 @@
-# day23
 
-A new Flutter project.
+## Management App UI 
 
-## Getting Started
+## Used:
+->api
+->Figma
+->Map
+->Model Class 
+->SingleChildScrollView
+->Scaffold
+->Column
+->ListTile
+->Row
+->CircleAvatar
+->ListView
+->Appbar
+->Icon
+->Expanded
+->Textstyle
+->Clicpreact
+->Mediaquery
+->Container
+->BoxDecoration
+->BorderRadius
 
-This project is a starting point for a Flutter application.
+## UI Design:
 
-A few resources to get you started if this is your first Flutter project:
+## UI Video:
+https://user-images.githubusercontent.com/48874418/218402640-704d188b-4407-4768-b436-3262d070825b.mp4
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+
+
+
+
